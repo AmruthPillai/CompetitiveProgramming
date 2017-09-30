@@ -1,11 +1,14 @@
 # XOR
-## Problem Code: SOX
-Contest URL: https://www.codechef.com/CSEP2017/problems/SOX
+**Problem Code:** SOX  
+**Problem Link:** https://www.codechef.com/CSEP2017/problems/SOX
 
 ### Problem Description
+```
 0<=x<=n
 n+x=n^r
-where ^ denotes the bitwise XOR operator. Then print an integer denoting the total number of x's satisfying the criteria above.
+```
+where ^ denotes the bitwise XOR operator.  
+Then print an integer denoting the total number of x's satisfying the criteria above.
 
 ### Input
 An integer n
