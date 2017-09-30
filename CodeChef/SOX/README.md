@@ -2,7 +2,7 @@
 **Problem Code:** SOX  
 **Problem Link:** https://www.codechef.com/CSEP2017/problems/SOX
 
-### Problem Description
+## Problem Description
 ```
 0<=x<=n
 n+x=n^r
@@ -10,16 +10,16 @@ n+x=n^r
 where ^ denotes the bitwise XOR operator.  
 Then print an integer denoting the total number of x's satisfying the criteria above.
 
-### Input
+## Input
 An integer n
 
-### Output
+## Output
 Print the total number of X found
 
-### Constraints
+## Constraints
 * 1 <= N <= 10 ^ 15
 
-### Example
+## Example
 ```
 Input:
 5
@@ -28,7 +28,7 @@ Output:
 2
 ```
 
-### Code (Python 2.7)
+## Code (Python 2.7)
 ```
 n = int(input())
 c = 0
