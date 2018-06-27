@@ -1,6 +1,6 @@
 # Roots of a Quadratic Equation
 
-**Problem Code:** QUADROOT
+**Problem Code:** QUADROOT  
 **Problem Link:** https://www.codechef.com/problems/QUADROOT
 
 ## Code (Python 3)
