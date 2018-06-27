@@ -1,8 +1,9 @@
 # Roots of a Quadratic Equation
 
-https://www.codechef.com/problems/QUADROOT
+**Problem Code:** QUADROOT
+**Problem Link:** https://www.codechef.com/problems/QUADROOT
 
-Code (Python 3)
+## Code (Python 3)
 ```python
 import math
 
